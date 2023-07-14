@@ -12,8 +12,9 @@
 
 body {
    background-image: url(/img/фон\ бамбук.jpg);
-   background-size: cover;
+   background-size: 100% cover;
    color: azure;
+   background-repeat: no-repeat;
 }
 
 header {

@@ -1,3 +1,3 @@
-import { createMenu } from "CreatMenu.js";
+import { createMenu } from "./CreatMenu.js";
 
 createMenu();

@@ -1,5 +1,5 @@
-import { creteCards, back } from "cards.js";
-import { createMenu } from "CreatMenu.js";
+import { creteCards, back } from "./cards.js";
+import { createMenu } from "./CreatMenu.js";
 
 
 const gameWin = () => {
