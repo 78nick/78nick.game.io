@@ -11,8 +11,8 @@ const cards = [
 ];
 
 export const back = [
-   "img/фон бамбук.jpg",
-   "img/Фон музей.png",
+   "/img/фон бамбук.jpg",
+   "/img/Фон музей.png",
 ]
 
 export class Card {
