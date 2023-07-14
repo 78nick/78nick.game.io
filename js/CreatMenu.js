@@ -1,5 +1,5 @@
-import { createField } from "./CreateField.js";
-import { back } from "./cards.js";
+import { createField } from "CreateField.js";
+import { back } from "cards.js";
 export const createMenu = () => {
    const body = document.querySelector("body");
    body.style.backgroundImage = `url(${back[0]})`;
